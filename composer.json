@@ -11,7 +11,7 @@
         "ckeditor",
         "pgrfilemanager"
     ],
-    
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "shifrosauna",

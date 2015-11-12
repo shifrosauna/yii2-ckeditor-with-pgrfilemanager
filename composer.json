@@ -24,6 +24,7 @@
     "require": {
         "yiisoft/yii2": "~2.0.6"
     },
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "dosamigos\\ckeditor\\": "src"

@@ -1,0 +1,41 @@
+{
+    "name": "shifrosauna/yii2-ckeditor-with-pgrfilemanager",
+    "description": "CKEditor widget for Yii2 with pgrfilemanager.",
+    "type": "yii2-extension",
+    "keywords": [
+        "shifrosauna",
+        "yii",
+        "yii2",
+        "yii 2",
+        "extension",
+        "widget",
+        "ckeditor"
+    ],
+     "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "shifrosauna",
+            "role": "Developer"
+        }
+    ],
+  
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "dosamigos\\ckeditor\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        },
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}

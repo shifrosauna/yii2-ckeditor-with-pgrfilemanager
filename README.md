@@ -80,16 +80,6 @@ Contributing
 
 Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-Credits
--------
-
-- [Antonio Ramirez](https://github.com/tonydspaniard)
-- [All Contributors](../../contributors)
-
-License
--------
-
-The BSD License (BSD). Please see [License File](LICENSE.md) for more information.
 
 
 

@@ -16,7 +16,8 @@
     "authors": [
         {
             "name": "shifrosauna",
-            "role": "Developer"
+            "role": "Developer",
+            "email": "test@test.com",
         }
     ],
   

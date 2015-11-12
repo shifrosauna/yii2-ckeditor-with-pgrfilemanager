@@ -1,9 +1,9 @@
 {
     "name": "shifrosauna/yii2-ckeditor-with-pgrfilemanager",
-    "description": "CKEditor widget for Yii2.",
+    "description": "CKEditor widget for Yii2 with pgrfilemanager.",
     "type": "yii2-extension",
     "keywords": [
-        "2amigos",
+        "shifrosauna",
         "yii",
         "yii2",
         "yii 2",
@@ -11,20 +11,14 @@
         "widget",
         "ckeditor"
     ],
-    "homepage": "http://yiiwheels.com/extension/ckeditor-widget",
-    "license": "BSD-3-Clause",
+     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "2amigOS! Consulting Group",
-            "email": "hola@2amigos.us",
-            "homepage": "http://2amigos.us",
+            "name": "shifrosauna",
             "role": "Developer"
         }
     ],
-    "support": {
-        "issues": "https://github.com/2amigos/yii2-ckeditor-widget/issues",
-        "source": "https://github.com/2amigos/yii2-ckeditor-widget"
-    },
+  
     "require": {
         "yiisoft/yii2": "~2.0.0"
     },
@@ -36,7 +30,7 @@
             "dosamigos\\ckeditor\\": "src"
         }
     },
-    "extra": {
+   "extra": {
         "branch-alias": {
             "dev-master": "1.0-dev"
         },

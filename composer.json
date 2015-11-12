@@ -2,6 +2,7 @@
     "name": "shifrosauna/yii2-ckeditor-with-pgrfilemanager",
     "description": "CKEditor widget for Yii2 with pgrfilemanager.",
     "type": "yii2-extension",
+    "version": "1.0",
     "keywords": [
         "shifrosauna",
         "yii",

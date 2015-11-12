@@ -28,6 +28,6 @@
         "psr-4": {
             "dosamigos\\ckeditor\\": "src"
         }
-    },
+    }
  
 }

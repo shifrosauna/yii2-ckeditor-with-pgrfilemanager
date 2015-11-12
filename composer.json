@@ -6,10 +6,10 @@
         "shifrosauna",
         "yii",
         "yii2",
-        "yii 2",
         "extension",
         "widget",
-        "ckeditor"
+        "ckeditor",
+        "pgrfilemanager"
     ],
      "license": "BSD-3-Clause",
     "authors": [

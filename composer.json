@@ -29,5 +29,13 @@
             "dosamigos\\ckeditor\\": "src"
         }
     }
+      "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        },
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
+        }
+    }
  
 }

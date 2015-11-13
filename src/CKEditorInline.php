@@ -4,7 +4,7 @@
  * @link http://2amigos.us
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace shifrosauna/ckeditor-with-pgrfilemanager;
+namespace dosamigos\ckeditor;
 
 use yii\base\Widget;
 use yii\helpers\Html;

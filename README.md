@@ -10,12 +10,12 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require shifrosauna/yii2-ckeditor-with-pgrfilemanager:~1.0
+composer require shifrosauna/yii2-ckeditor-with-pgrfilemanager:dev-master
 ```
 or add
 
 ```json
-"shifrosauna/yii2-ckeditor-with-pgrfilemanager" : "~1.0"
+"shifrosauna/yii2-ckeditor-with-pgrfilemanager" : "dev-master"
 ```
 
 to the require section of your application's `composer.json` file.

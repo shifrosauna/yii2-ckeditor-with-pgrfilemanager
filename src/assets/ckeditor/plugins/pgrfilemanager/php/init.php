@@ -24,7 +24,18 @@ THE SOFTWARE.
 */
 
 include_once dirname(__FILE__) . '/config.php';
-include_once dirname(__FILE__) . '/../myconfig.php';
+$arr = require(dirname(__FILE__) . '/../../../../../../../../../config/ckedit.php');
+PGRFileManagerConfig::$rootPath = $arr['rootPath'];
+PGRFileManagerConfig::$urlPath = $arr['urlPath'];
+PGRFileManagerConfig::$fileMaxSize =$arr['fileMaxSize'];
+PGRFileManagerConfig::$allowedExtensions = $arr['allowedExtensions'];
+PGRFileManagerConfig::$imagesExtensions = $arr['imagesExtensions'];
+PGRFileManagerConfig::$imageMaxHeight = $arr['imageMaxHeight'];
+PGRFileManagerConfig::$imageMaxWidth = $arr['imageMaxWidth'];
+PGRFileManagerConfig::$allowEdit = $arr['allowEdit'];
+PGRFileManagerConfig::$authorize = $arr['authorize'];
+PGRFileManagerConfig::$authorizeUser = $arr['authorizeUser'];
+PGRFileManagerConfig::$authorizePass =  $arr['authorizePass'];
 PGRFileManagerConfig::$rootDir = PGRFileManagerConfig::$rootPath;
 
 //Lang
